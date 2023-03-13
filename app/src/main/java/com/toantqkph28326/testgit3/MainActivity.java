@@ -11,10 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         //toantqk test code
+        // them code 1:36
 
-
-        //toantqk_2 test
     }
 }
