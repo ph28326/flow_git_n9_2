@@ -12,7 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //toantqk test code
-        // them code 1:36
+        // them code 1:365887
+        //pro
+        //oki
 
     }
 }
